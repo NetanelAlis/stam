@@ -28,3 +28,14 @@ To launch the system, follow these steps:
 1. **Make the launcher script executable:**
    ```bash
    chmod +x launcher.sh
+
+2. **Run the launcher.sh script with two parameters**:
+
+    difficulty level (e.g., 5)
+    number of miners (e.g., 3)
+
+
+Example command:
+
+./launcher.sh 5 3
+
