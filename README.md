@@ -38,10 +38,10 @@ Example:
 
 If you want to run the system with a difficulty level of 5 and 3 miners, the command would be:
 
-bash
-
-./launcher.sh 5 3
-
+```bash
+   ./launcher.sh 5 3
+```
+   
 **Script Behavior**
 
    - The script will pull the Docker images from Docker Hub. Ensure you're logged into Docker Hub before running the script.
